@@ -1,0 +1,21 @@
+
+.product{
+    display: flex;
+    margin: 20px;
+    border: 2px lightskyblue solid;
+    border-radius: 10px;
+    padding: 10px;
+}
+.product-name{
+   
+    color: maroon;
+    font-weight: 400px;
+}
+.add-button{
+    background-color: mediumturquoise;
+    height: 30px;
+    width: 150px;
+    padding: 4px 20px 4px 20px;
+    border: 1px black solid;
+    border-radius: 5px;
+}
